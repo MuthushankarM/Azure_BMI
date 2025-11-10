@@ -4,7 +4,7 @@ trigger:
 pool:
   name: steve
   demands:
-    - agent.name -equals muthu
+    - agent.name -equals steve
 
 steps:
   - task: Maven@4
