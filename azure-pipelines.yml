@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: muthu
+  name: steve
   demands:
     - agent.name -equals muthu
 
